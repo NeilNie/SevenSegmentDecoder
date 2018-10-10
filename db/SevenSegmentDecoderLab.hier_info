@@ -1,0 +1,30 @@
+|SevenSegmentDecoderLab
+a <= inst6.DB_MAX_OUTPUT_PORT_TYPE
+SW[0] => inst12.IN2
+SW[0] => inst17.IN2
+SW[0] => inst19.IN1
+SW[1] => inst4.IN0
+SW[1] => inst2.IN0
+SW[1] => inst10.IN2
+SW[1] => inst15.IN2
+SW[1] => inst18.IN0
+SW[1] => inst14.IN0
+SW[2] => inst6.IN1
+SW[2] => inst6.IN2
+SW[2] => inst1.IN0
+SW[2] => inst7.IN0
+SW[2] => inst10.IN0
+SW[2] => inst13.IN1
+SW[2] => inst11.IN0
+SW[3] => inst4.IN1
+SW[3] => inst.IN0
+SW[3] => inst7.IN1
+SW[3] => inst15.IN0
+b <= inst9.DB_MAX_OUTPUT_PORT_TYPE
+c <= inst10.DB_MAX_OUTPUT_PORT_TYPE
+d <= inst21.DB_MAX_OUTPUT_PORT_TYPE
+e <= inst16.DB_MAX_OUTPUT_PORT_TYPE
+f <= inst17.DB_MAX_OUTPUT_PORT_TYPE
+g <= inst19.DB_MAX_OUTPUT_PORT_TYPE
+
+
