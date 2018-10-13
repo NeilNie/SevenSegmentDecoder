@@ -1,0 +1,44 @@
+|SevenSegmentDecoderFull
+HEX0[0] <= inst34.DB_MAX_OUTPUT_PORT_TYPE
+HEX0[1] <= inst35.DB_MAX_OUTPUT_PORT_TYPE
+HEX0[2] <= inst24.DB_MAX_OUTPUT_PORT_TYPE
+HEX0[3] <= inst18.DB_MAX_OUTPUT_PORT_TYPE
+HEX0[4] <= inst17.DB_MAX_OUTPUT_PORT_TYPE
+HEX0[5] <= inst13.DB_MAX_OUTPUT_PORT_TYPE
+HEX0[6] <= inst5.DB_MAX_OUTPUT_PORT_TYPE
+SW[0] => inst6.IN2
+SW[0] => inst.IN0
+SW[0] => inst29.IN2
+SW[0] => inst9.IN2
+SW[0] => inst11.IN1
+SW[0] => inst15.IN2
+SW[0] => inst16.IN1
+SW[0] => inst27.IN2
+SW[0] => inst28.IN1
+SW[0] => inst33.IN2
+SW[0] => inst36.IN1
+SW[1] => inst6.IN1
+SW[1] => inst21.IN2
+SW[1] => inst1.IN0
+SW[1] => inst9.IN1
+SW[1] => inst11.IN0
+SW[1] => inst23.IN2
+SW[1] => inst25.IN1
+SW[1] => inst27.IN1
+SW[1] => inst26.IN1
+SW[2] => inst6.IN0
+SW[2] => inst2.IN0
+SW[2] => inst14.IN1
+SW[2] => inst8.IN1
+SW[2] => inst23.IN1
+SW[2] => inst22.IN1
+SW[2] => inst26.IN0
+SW[2] => inst32.IN0
+SW[3] => inst21.IN0
+SW[3] => inst3.IN0
+SW[3] => inst8.IN0
+SW[3] => inst23.IN0
+SW[3] => inst22.IN0
+SW[3] => inst27.IN0
+
+
